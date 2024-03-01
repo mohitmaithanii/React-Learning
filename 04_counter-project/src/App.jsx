@@ -1,3 +1,5 @@
+/* Counter project using react hooks */
+
 import { useState } from "react";
 import "./App.css";
 
